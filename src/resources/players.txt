@@ -1,0 +1,4 @@
+Name: Pjer Password: 1 Avatar: C:\Users\pierp\OneDrive\Desktop\Eclipse-workspace\JUNO\src\resources\Avatars\mewtwo.png 
+Name: 2 Password: 2 Avatar: C:\Users\pierp\OneDrive\Desktop\Eclipse-workspace\JUNO\src\resources\Avatars\mewtwo.png 
+Name: 3 Password: 3 Avatar: C:\Users\pierp\OneDrive\Desktop\Eclipse-workspace\JUNO\src\resources\Avatars\bulbasaur.png 
+Name: Ciao Password: 4 Avatar: C:\Users\pierp\OneDrive\Desktop\Eclipse-workspace\JUNO\src\resources\Avatars\chansey.png
